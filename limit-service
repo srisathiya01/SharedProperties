@@ -1,2 +1,2 @@
-min=10
-max=10000
+limits-service.min=10
+limits-service.max=10000
